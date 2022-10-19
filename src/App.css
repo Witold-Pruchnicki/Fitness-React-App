@@ -27,15 +27,14 @@ body {
     font-size: 25px;
     border-radius: 4px;
     position: absolute;
-    bottom:-20px;
+    bottom: -20px;
+    right: 80px;
     transform: scale(1, 1);
     transition: 0.3s all ease-in-out;
 }
 
 .right-arrow {
-    left: 400px;
-}.left-arrow {
-   right:400px
+    right: 140px;
 }
 
 .right-arrow:hover,
@@ -45,6 +44,8 @@ body {
 
 .react-horizontal-scrolling-menu--wrapper {
     width: 100%;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .detail-image {
@@ -66,7 +67,7 @@ body {
     width: 400px;
     height: 445px;
     background: #fff;
-    border-top: 4px solid #0ca2ff;
+    border-top: 4px solid #FF2625;
     border-bottom-left-radius: 20px;
     text-decoration: none;
     display: flex;
