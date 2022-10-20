@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "//Fitness-React-App/static/css/main.44ef9c6e.css",
+    "main.js": "//Fitness-React-App/static/js/main.8c5b81cd.js",
+    "static/media/hero-img.png": "//Fitness-React-App/static/media/hero-img.0b8767d2d8283c8aa5ad.png",
+    "static/media/workout.png": "//Fitness-React-App/static/media/workout.a9f8193a4b9afcba2642.png",
+    "static/media/muscles.png": "//Fitness-React-App/static/media/muscles.6604977e7a7d186391d1.png",
+    "static/media/exercise.png": "//Fitness-React-App/static/media/exercise.a8034d01c0e84d12a9d5.png",
+    "static/media/gym.png": "//Fitness-React-App/static/media/gym.83fda54ebc4e73af43d0.png",
+    "index.html": "//Fitness-React-App/index.html",
+    "main.44ef9c6e.css.map": "//Fitness-React-App/static/css/main.44ef9c6e.css.map",
+    "main.8c5b81cd.js.map": "//Fitness-React-App/static/js/main.8c5b81cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44ef9c6e.css",
+    "static/js/main.8c5b81cd.js"
+  ]
+}
