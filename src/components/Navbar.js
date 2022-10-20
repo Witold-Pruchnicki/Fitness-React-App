@@ -1,6 +1,7 @@
 
 import Logo from '../assets/logo.png'
-import {Link, Stack} from "@mui/material";
+import {Stack} from "@mui/material";
+import {Link} from "react-router-dom";
 const Navbar = ()=>{
 return(
     <Stack direction="row" justifyContent="space-around" sx={{gap:{sm:'122px', xs:'40px'}, mt:{sm:'32px', xs:'20px'}, justifyContent:'none'}} px="20px" >
